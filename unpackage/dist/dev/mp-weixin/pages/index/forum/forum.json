@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "论坛",
+  "usingComponents": {
+    "article": "/compoents/article",
+    "case-card": "/compoents/caseCard",
+    "released": "/pages/index/forum/released"
+  }
+}

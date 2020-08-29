@@ -1,0 +1,1 @@
+<view><view><product vue-id="1719461d-1" data="{{data}}" name="foot" bind:__l="__l"></product></view><block wx:if="{{data.length==0}}"><view class="text-center margin-top">空空如也，赶快去浏览吧！</view></block></view>

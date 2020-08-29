@@ -1,0 +1,1 @@
+<view class="flex justify-center text-orange margin-top"><view class="time">{{hour+"0"}}</view><text class="dian">:</text><view class="time">{{minute}}</view><text class="dian">:</text><view class="time">{{second}}</view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "easy-loadimage": "/compoents/easy-loadimage/easy-loadimage",
+    "poster": "/compoents/poster",
+    "product": "/compoents/product",
+    "key-words": "/compoents/bian-keywords/index"
+  }
+}

@@ -1,0 +1,19 @@
+
+.title_box {
+	padding: 10rpx;
+}
+.title_pro {
+	display: block;
+	line-height: 1.5;
+	word-wrap: break-word;
+	word-break: normal;
+	min-height: 90rpx;
+}
+.shopbtn {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+

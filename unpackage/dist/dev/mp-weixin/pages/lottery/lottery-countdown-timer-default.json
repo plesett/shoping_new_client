@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "lottery-countdown-timer-default": "/pages/lottery/lottery-countdown-timer-default",
+    "countdown-timer": "/compoents/countdown-timer/countdown-timer"
+  }
+}

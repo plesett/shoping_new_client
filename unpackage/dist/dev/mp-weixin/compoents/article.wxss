@@ -1,0 +1,5 @@
+
+.borderBottom{
+	border-bottom: 25rpx solid #EEEEEE;
+}
+

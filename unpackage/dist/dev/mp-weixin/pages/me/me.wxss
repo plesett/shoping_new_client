@@ -1,0 +1,46 @@
+
+.user_card{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	width: 100%;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+}
+.btn_warp {
+	width: 15%;
+	text-align: center;
+	color: #ff8630;
+	line-height: 2;
+	margin: 0 15rpx;
+	background-color: #FFFFFF;
+	border-radius: 25px;
+}
+.btn_out{
+	width: 93%;
+	line-height: 2.5;
+	color: #FFFFFF;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50rpx;
+	background-color: #ff2a0e;
+}
+.message_login{
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.message_login > button {
+	width: 30%;
+	margin-top: 15%;
+}
+

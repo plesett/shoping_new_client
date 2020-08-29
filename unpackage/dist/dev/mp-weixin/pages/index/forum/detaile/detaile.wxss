@@ -1,0 +1,71 @@
+
+.detaile_body {
+	padding: 30rpx 30rpx 80rpx 30rpx;
+}
+.detaile {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: start;
+	-webkit-justify-content: start;
+	        justify-content: start;
+}
+.detaile_portrait {
+	margin-right: 35rpx;
+}
+.detaile_portrait>image {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 50%;
+}
+.detaile_user {
+	line-height: 1.5;
+	font-size: 13px;
+	color: #6a6867;
+}
+.detaile_price {
+	color: #D84242;
+	font-size: 20px;
+	margin: 20rpx 0;
+}
+.detaile_describe {
+	min-height: 650rpx;
+	margin-bottom: 30rpx;
+}
+.detaile_describe>image {
+	width: 100%;
+	height: 500rpx;
+	margin: 10rpx 0;
+}
+.textarea_info{
+	position: relative;
+	border: 1px solid #007AFF;
+	border-radius: 10px;
+}
+textarea{
+	width: 100%;
+	height: 100rpx;
+}
+.count{
+	position: absolute;
+	right: 5%;
+	bottom: 5%;
+	font-size: 10px;
+	color: #8A8A8A;
+}
+.btn_post_sub{
+	width: 100%;
+	line-height: 2.5;
+	text-align: center;
+	margin: 0 auto;
+	color: #FFFFFF;
+	background-color: #DD524D;
+	border-radius: 8px;
+}
+.user_img_comment {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	border-radius: 50%;
+}
+

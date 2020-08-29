@@ -1,0 +1,40 @@
+
+page {
+	background: #FFFFFF;
+}
+.cartNull {
+	width: 50%;
+	height: 280rpx;
+	margin: 0 auto;
+}
+.proImg {
+	width: 30%;
+}
+.blockCount {
+	width: 50rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+	background-color: #EEEEEE;
+}
+.settlement {
+	position: fixed;
+	bottom: 120rpx;
+	width: 10%;
+	height: 6%;
+	color: #FFFFFF;
+	line-height: 2.6;
+	text-align: center;
+	border-radius: 50%;
+	right: 5%;
+	box-shadow: 1px 2px 7px 0px #8d8d8d;
+	background-color: #f37b1d;
+}
+.btn_count {
+	width: 80rpx;
+	text-align: center;
+	margin: 0 10rpx;
+	line-height: 1.7;
+	border: 1px solid #EEEEEE;
+}
+

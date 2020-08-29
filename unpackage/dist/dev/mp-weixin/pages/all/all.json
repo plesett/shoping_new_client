@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "所有商品",
+  "usingComponents": {
+    "product": "/compoents/product"
+  }
+}

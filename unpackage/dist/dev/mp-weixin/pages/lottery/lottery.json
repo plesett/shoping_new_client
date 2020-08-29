@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "最新中奖",
+  "usingComponents": {
+    "lottery-countdown-timer-default": "/pages/lottery/lottery-countdown-timer-default",
+    "countdown-timer": "/compoents/countdown-timer/countdown-timer"
+  }
+}

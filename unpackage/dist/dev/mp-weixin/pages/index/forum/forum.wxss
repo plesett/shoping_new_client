@@ -1,0 +1,101 @@
+
+.loadingBig {
+	line-height: 2.5;
+}
+.sub_from_post {
+	width: 45%;
+	line-height: 2.8;
+	border-radius: 25px;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #ee4f44;
+	position: fixed;
+	bottom: 10%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+.postaic {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
+	z-index: 10;
+}
+.tab_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	border-bottom: 1px solid #fff2f3;
+	background-color: #FFFFFF;
+}
+.tab_title {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-size: 14px;
+	color: #969696;
+	line-height: 2.5;
+	text-align: center;
+}
+.link {
+	width: 50%;
+	height: 4rpx;
+	margin: 0 auto;
+	background-color: #F11B09;
+}
+.release_btn {
+	position: fixed;
+	bottom: 10%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 28%;
+	color: #FFFFFF;
+	padding: 0 25rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 2.5;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	background-color: #ff5e5e;
+	border-radius: 25px;
+}
+.message_warp {
+	width: 100%;
+	color: #F0AD4E;
+	font-size: 13px;
+	text-align: center;
+	padding: 10rpx 20rpx;
+	background-color: #ffe6c6;
+}
+.pageCom {
+	-webkit-animation: fadeout .5s ease;
+	        animation: fadeout .5s ease;
+	-webkit-animation-iteration-count: 1;
+	        animation-iteration-count: 1;
+	-webkit-animation-fill-mode: forwards;
+	        animation-fill-mode: forwards;
+}
+@-webkit-keyframes fadeout {
+
+	/*设置内容由显示变为隐藏*/
+0% {
+		opacity: 0;
+}
+5% {
+		opacity: 0.5;
+}
+100% {
+		opacity: 1;
+}
+}
+
